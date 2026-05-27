@@ -1,6 +1,3 @@
-#Linda Ford
-#CIS261
-#VIBE CODING
 #!/usr/bin/env python3
 """
 Student Grade Calculator
